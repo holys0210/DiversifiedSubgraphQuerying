@@ -10,5 +10,5 @@ make
 ```
 ## Run 
 ```sh
-./DivDAF -d DATA -q QUERY -n NUM_QUERIES -m NUM_EMBEDDINGS -k TOP_K -c -f
+./DivDAF -d DATA -q QUERY -n NUM_QUERIES -m NUM_EMBEDDINGS -k TOP_K -c
 ```
